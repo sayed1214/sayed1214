@@ -9,13 +9,13 @@ this is sample of our project.
 
 - Situation Explanation
 - Background
-During the development of this project, an itexpdf-licensed SDK was mistakenly included in the project dependencies. It is important to note:
+During the development of this project, an agpl itexpdf-licensed SDK was mistakenly included in the project dependencies. It is important to note:
  -The SDK was never called or used in any part of the application.
  -The inclusion of the SDK was accidental and did not affect the application's functionality.
 
 - Repository Contents
 This repository includes:
-Source files showing the addition of the itexpdf-licensed SDK.
+Source files showing the addition of the agpl itexpdf-licensed SDK.
 Relevant project files demonstrating that the SDK was not utilized in the application code.
 
 - Acknowledgements
